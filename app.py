@@ -347,7 +347,7 @@ else:
 
 # Кнопка по центру
 st.markdown("<br>", unsafe_allow_html=True)
-cm_link = "https://acstuff.club/s/zcoX"
+cm_link = "https://acstuff.club/s/yak"
 st.markdown(f"""
 <div style="text-align:center;margin:30px 0;">
     <a href="{cm_link}" class="link-btn" target="_blank" style="display:inline-block;max-width:500px;width:100%;">
