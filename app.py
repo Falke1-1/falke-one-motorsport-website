@@ -265,7 +265,7 @@ with col1:
     <div class="pilot-card">
         <div class="pilot-nick">sKIF #16</div>
         <div class="pilot-name"> Афанасьев Матвей</div>
-        <div style="color: #ffd700; font-size: 0.8em; margin-top: 5px;">Race Driver AC</div>
+        <div style="color: #ffd700; font-size: 0.8em; margin-top: 5px;">Race Driver AC/Deputy Director</div>
     </div>
     """, unsafe_allow_html=True)
 
