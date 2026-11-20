@@ -16,7 +16,7 @@
 Основатель FALKE ONE MOTORSPORT / F1Performance  
 Гоночный номер: #145
 
-## 🔗 Ссылки
+## Ссылки
 - [Сайт команды](https://falke-one-motorsport.streamlit.app/)
 - [TikTok](https://www.tiktok.com/@falke_one_motorsport)
 - [Discord](https://discord.com/invite/DWUQeEQdrc)
